@@ -1,0 +1,27 @@
+.mg-b-10{
+    margin-bottom: 10px;
+}
+.mg-b-15{
+    margin-bottom: 15px;
+}
+.mg-b-20{
+    margin-bottom: 20px;
+}
+.mg-b-30{
+    margin-bottom: 30px;
+}
+.mg-b-40{
+    margin-bottom: 40px;
+}
+.mg-b-60{
+    margin-bottom: 60px;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+.float-left{
+    float: left;
+}
